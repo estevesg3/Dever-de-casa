@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Máquina";
+    src: url("fonte.ttf");
+}
+
+* {
+
+    font-family: Máquina;
+
+    font-weight: 300;
+}
